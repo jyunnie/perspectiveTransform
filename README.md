@@ -6,4 +6,4 @@ requirements:
 python3
 openCV2
 
-![Source](https://github.com/jyunnie/perspectiveTransform/blob/main/sourceImg.jpg | width=100)
+![Source]<img src="https://github.com/jyunnie/perspectiveTransform/blob/main/sourceImg.jpg" width=50% height=50%>
